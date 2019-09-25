@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,MAAM,CACN,gBAAgB,CAAE,OAAO,CCGzB,IAAI,CACF,MAAM,CAAE,CAAC,CACT,OAAO,CAAE,CAAC,CCNZ,MAAM,CACN,gBAAgB,CAAE,OAAO",
+"sources": ["../scss/_header.scss","../scss/maindev.scss","../scss/_footer.scss"],
+"names": [],
+"file": "maindev.css"
+}
